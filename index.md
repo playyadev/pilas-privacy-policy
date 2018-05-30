@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+### Pilas - Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/playyadev/pilas-privacy-policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers 
+to identify your computer or device so we can deliver a better experience. Our systems also log information 
+like your browser, operating system and IP address.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We also may collect personally identifiable information that you provide to us, such as your name, address, 
+phone number or email address. With your permission, we may also access other personal information on your device, 
+such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may 
+also access profile and other information from services like Facebook.
 
-### Markdown
+Our systems may associate this personal information with your activities in the course of providing service to 
+you (such as pages you view or things you click on or search for).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We do not knowingly contact or collect personal information from children under 13. If you believe we have 
+inadvertently collected such information, please contact us so we can promptly obtain parental consent or 
+remove the information.
 
-```markdown
-Syntax highlighted code block
+To customize our service for you, we may collect and store your precise geographic location as part of your 
+user profile. This data generally is not shared with others. We may ask for your consent on your first use 
+of the service.
 
-# Header 1
-## Header 2
-### Header 3
+You can sign into your account to see any personally identifiable information we have stored, such as your 
+name, email, address or phone number. You can also contact us by email to request to see this information.
 
-- Bulleted
-- List
+We may keep data indefinitely.
 
-1. Numbered
-2. List
+We may share personally identifiable information (such as name, address, email or phone) with trusted partners 
+in order to provide you with relevant advertising, offers or services.
 
-**Bold** and _Italic_ and `Code` text
+If you have any questions or concerns about our privacy policies, please contact us:
 
-[Link](url) and ![Image](src)
-```
+playyamundo@gmail.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In order to serve you, we may share your personal and anonymous information with other companies, including 
+vendors and contractors. Their use of information is limited to these purposes, and subject to agreements that 
+require them to keep the information confidential. Our vendors provide assurance that they take reasonable steps 
+to safeguard the data they hold on our behalf, although data security cannot be guaranteed.
 
-### Jekyll Themes
+We take reasonable steps to secure your personally identifiable information against unauthorized access or 
+disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security 
+or encryption method can be guaranteed to protect information from hackers or human error.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/playyadev/pilas-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Information we collect may be stored or processed on computers located in any country.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This privacy policy was last updated on May 23th, 2018. Our privacy policy may change from time to time without 
+noticing the user. If the user continue using our service it implicitly accepts the new privacy police.
